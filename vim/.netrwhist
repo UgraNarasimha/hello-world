@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/supreeth'
+let g:netrw_dirhist_2='/data/_development/mf_test'
+let g:netrw_dirhist_3='/data/_development'
+let g:netrw_dirhist_4='/data'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/data'
+let g:netrw_dirhist_7='/data/_development'
+let g:netrw_dirhist_8='/data/_development/mf03_pf'
+let g:netrw_dirhist_9='/data/_development'
