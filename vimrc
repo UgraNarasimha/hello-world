@@ -6,3 +6,4 @@ colorscheme monokai
 set runtimepath+=~/.vim/bundle/nerdtree
 autocmd vimenter * NERDTree
 nmap <F6> :NERDTreeToggle<CR>
+set splitright
